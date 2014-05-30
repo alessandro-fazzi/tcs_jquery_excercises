@@ -1,0 +1,12 @@
+table {
+	border: 1px solid;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.pointer:hover{
+	color: white;
+	background-color: #333;
+}
